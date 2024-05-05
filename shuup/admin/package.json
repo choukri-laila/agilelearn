@@ -43,7 +43,7 @@
     "font-awesome": "^4.7.0",
     "get-size": "^2.0.3",
     "html5sortable": "^0.9.10",
-    "imagelightbox": "^0.10.0",
+    "imagelightbox": "^0.14.0",
     "jquery": "^3.4.1",
     "jquery-datetimepicker": "^2.5.20",
     "jquery.easing": "^1.4.1",
