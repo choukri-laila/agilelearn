@@ -38,7 +38,7 @@ html5lib==0.999999999
 idna==2.10                      # via requests
 importlib-metadata==3.10.0      # via keyring, markdown, pluggy, pytest
 jeepney==0.6
-jinja2==2.8.1                   # via django-jinja, shuup
+jinja2==3.1.4                   # via django-jinja, shuup
 jsonfield==2.1.1                 # via shuup
 keyring==23.0.1                 # via shuup
 keyrings.alt==4.0.2             # via shuup
