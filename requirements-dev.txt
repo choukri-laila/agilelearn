@@ -50,7 +50,7 @@ pyparsing==2.4.7          # via packaging
 python-dateutil==2.8.1    # via shuup
 pytz==2021.1              # via babel, django, django-timezone-field
 regex==2021.3.17          # via black
-requests==2.25.1          # via shuup
+requests==2.32.0          # via shuup
 six==1.15.0               # via bleach, django-filer, django-parler, jsonfield, python-dateutil, shuup
 sqlparse==0.4.1           # via django
 toml==0.10.2              # via black, shuup
