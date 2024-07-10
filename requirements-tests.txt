@@ -76,7 +76,7 @@ wcwidth==0.2.5                  # via pytest
 weasyprint==52.2
 webencodings==0.5.1             # via bleach, cssselect2, html5lib, tinycss2
 xlrd==2.0.1                     # via shuup
-zipp==3.4.1                     # via importlib-metadata
+zipp==3.19.1                     # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools                    # via html5lib, pytest-splinter, weasyprint
