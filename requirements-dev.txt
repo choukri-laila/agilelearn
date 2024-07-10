@@ -61,7 +61,7 @@ unidecode==1.1.2          # via django-filer
 urllib3==1.26.4           # via requests
 webencodings==0.5.1       # via bleach
 xlrd==2.0.1               # via shuup
-zipp==3.4.1               # via importlib-metadata
+zipp==3.19.1               # via importlib-metadata
 
 # The following packages are considered to be unsafe in a requirements file:
 # pip                       # via prequ
