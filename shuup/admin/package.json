@@ -32,7 +32,7 @@
     "babel-core": "^6.26.3",
     "babel-plugin-wildcard": "^5.0.0",
     "babel-preset-env": "^1.7.0",
-    "bootstrap": "^4.3.1",
+    "bootstrap": "^5.0.0",
     "bootstrap-colorpicker": "^3.1.2",
     "chart.js": "^2.7.2",
     "codemirror": "^5.56.0",
