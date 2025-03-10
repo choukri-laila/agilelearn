@@ -14,7 +14,7 @@ coverage==5.5                   # via codecov, pytest-cov
 cryptography==3.4.7
 cssselect2==0.4.1               # via cairosvg, weasyprint
 defusedxml==0.7.1               # via cairosvg
-django==2.2.24                  # via django-filer, django-filter, django-jinja, django-mptt, django-reversion, django-timezone-field, django-polymorphic, djangorestframework, easy-thumbnails, jsonfield, shuup
+django==4.2.20                  # via django-filer, django-filter, django-jinja, django-mptt, django-reversion, django-timezone-field, django-polymorphic, djangorestframework, easy-thumbnails, jsonfield, shuup
 django-bootstrap3==11.0.0       # via shuup
 django-countries==6.1.3         # via shuup
 django-enumfields==2.0.0         # via shuup
@@ -38,7 +38,7 @@ html5lib==0.999999999
 idna==2.10                      # via requests
 importlib-metadata==3.10.0      # via keyring, markdown, pluggy, pytest
 jeepney==0.6
-jinja2==2.8.1                   # via django-jinja, shuup
+jinja2==3.1.6                   # via django-jinja, shuup
 jsonfield==2.1.1                 # via shuup
 keyring==23.0.1                 # via shuup
 keyrings.alt==4.0.2             # via shuup
