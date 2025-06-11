@@ -3,7 +3,7 @@ babel==2.5.3              # via shuup, sphinx
 bleach==3.1.5             # via shuup
 certifi==2021.5.30        # via requests
 chardet==4.0.0            # via requests
-django==2.2.24            # via django-filer, django-filter, django-jinja, django-mptt, django-reversion, django-timezone-field, django-polymorphic, djangorestframework, easy-thumbnails, jsonfield, shuup
+django==4.2.22            # via django-filer, django-filter, django-jinja, django-mptt, django-reversion, django-timezone-field, django-polymorphic, djangorestframework, easy-thumbnails, jsonfield, shuup
 django-bootstrap3==11.0.0  # via shuup
 django-countries==6.1.3   # via shuup
 django-enumfields==2.0.0  # via shuup
@@ -42,7 +42,7 @@ pyparsing==2.4.7          # via packaging
 python-dateutil==2.8.1    # via shuup
 pytz==2021.1              # via babel, django, django-timezone-field
 readthedocs-sphinx-ext==0.5.17
-requests==2.25.1          # via readthedocs-sphinx-ext, shuup, sphinx
+requests==2.32.4          # via readthedocs-sphinx-ext, shuup, sphinx
 shuup==2.10.2
 six==1.16.0               # via bleach, django-filer, django-parler, jsonfield, python-dateutil, shuup, sphinx
 snowballstemmer==2.1.0    # via sphinx
