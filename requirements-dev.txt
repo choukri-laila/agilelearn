@@ -7,7 +7,7 @@ certifi==2020.12.5        # via requests
 chardet==4.0.0            # via requests
 click==7.1.2              # via black, prequ
 dataclasses==0.8          # via black
-django==2.2.24            # via django-filer, django-filter, django-jinja, django-mptt, django-polymorphic, django-reversion, django-timezone-field, djangorestframework, easy-thumbnails, jsonfield, shuup
+django==4.2.22            # via django-filer, django-filter, django-jinja, django-mptt, django-polymorphic, django-reversion, django-timezone-field, djangorestframework, easy-thumbnails, jsonfield, shuup
 django-bootstrap3==11.0.0  # via shuup
 django-countries==6.1.3   # via shuup
 django-enumfields==2.0.0  # via shuup
@@ -50,7 +50,7 @@ pyparsing==2.4.7          # via packaging
 python-dateutil==2.8.1    # via shuup
 pytz==2021.1              # via babel, django, django-timezone-field
 regex==2021.3.17          # via black
-requests==2.25.1          # via shuup
+requests==2.32.4          # via shuup
 six==1.15.0               # via bleach, django-filer, django-parler, jsonfield, python-dateutil, shuup
 sqlparse==0.4.1           # via django
 toml==0.10.2              # via black, shuup
